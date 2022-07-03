@@ -1,4 +1,4 @@
-#define NK 4 // Must be set to 4, 6 or 8
+#define NK 8 // Must be set to 4, 6 or 8
 
 #define byte unsigned char
 #define ROTL8(x,shift) ((byte) ((x) << (shift)) | ((x) >> (8 - (shift))))
